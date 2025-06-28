@@ -96,6 +96,6 @@ These allow users to drill down into specific years or focus on individual natio
 For questions or feedback:
 
 **Akshitha**  
-[LinkedIn](https://www.linkedin.com/in/akshitha-thatla-755832260/) 
+[LinkedIn](https://www.linkedin.com/in/akshitha-thatla/) 
 
 [Github](https://github.com/Akshitha-git06)
